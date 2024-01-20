@@ -1,0 +1,252 @@
+[
+    {
+        "country": "Virgin Islands, U.S.",
+        "marketplace": "Guadeloupe",
+        "id": 1
+    },
+    {
+        "country": "Virgin Islands, British",
+        "marketplace": "Guatemala",
+        "id": 2
+    },
+    {
+        "country": "Faroe Islands",
+        "marketplace": "Jamaica",
+        "id": 3
+    },
+    {
+        "country": "Sierra Leone",
+        "marketplace": "Georgia",
+        "id": 4
+    },
+    {
+        "country": "Bhutan",
+        "marketplace": "United States of America",
+        "id": 5
+    },
+    {
+        "country": "Ecuador",
+        "marketplace": "Singapore",
+        "id": 6
+    },
+    {
+        "country": "Sierra Leone",
+        "marketplace": "Macao",
+        "id": 7
+    },
+    {
+        "country": "Greece",
+        "marketplace": "Maldives",
+        "id": 8
+    },
+    {
+        "country": "Tanzania",
+        "marketplace": "Ghana",
+        "id": 9
+    },
+    {
+        "country": "Lao People's Democratic Republic",
+        "marketplace": "French Polynesia",
+        "id": 10
+    },
+    {
+        "country": "Gambia",
+        "marketplace": "Wallis and Futuna",
+        "id": 11
+    },
+    {
+        "country": "Zimbabwe",
+        "marketplace": "Togo",
+        "id": 12
+    },
+    {
+        "country": "Angola",
+        "marketplace": "Trinidad and Tobago",
+        "id": 13
+    },
+    {
+        "country": "Uzbekistan",
+        "marketplace": "Suriname",
+        "id": 14
+    },
+    {
+        "country": "Bahrain",
+        "marketplace": "Palau",
+        "id": 15
+    },
+    {
+        "country": "Guinea-Bissau",
+        "marketplace": "Wallis and Futuna",
+        "id": 16
+    },
+    {
+        "country": "Mali",
+        "marketplace": "Pitcairn Islands",
+        "id": 17
+    },
+    {
+        "country": "Bosnia and Herzegovina",
+        "marketplace": "Marshall Islands",
+        "id": 18
+    },
+    {
+        "country": "Gambia",
+        "marketplace": "Angola",
+        "id": 19
+    },
+    {
+        "country": "Poland",
+        "marketplace": "Pitcairn Islands",
+        "id": 20
+    },
+    {
+        "country": "Zambia",
+        "marketplace": "Lao People's Democratic Republic",
+        "id": 21
+    },
+    {
+        "country": "United States Minor Outlying Islands",
+        "marketplace": "United Kingdom",
+        "id": 22
+    },
+    {
+        "country": "Iran",
+        "marketplace": "Israel",
+        "id": 23
+    },
+    {
+        "country": "Namibia",
+        "marketplace": "Finland",
+        "id": 24
+    },
+    {
+        "country": "Sweden",
+        "marketplace": "Burundi",
+        "id": 25
+    },
+    {
+        "country": "Bouvet Island (Bouvetoya)",
+        "marketplace": "Chile",
+        "id": 26
+    },
+    {
+        "country": "Kenya",
+        "marketplace": "United Arab Emirates",
+        "id": 27
+    },
+    {
+        "country": "Equatorial Guinea",
+        "marketplace": "Russian Federation",
+        "id": 28
+    },
+    {
+        "country": "Ukraine",
+        "marketplace": "Gibraltar",
+        "id": 29
+    },
+    {
+        "country": "Bhutan",
+        "marketplace": "Cape Verde",
+        "id": 30
+    },
+    {
+        "country": "Bermuda",
+        "marketplace": "Tajikistan",
+        "id": 31
+    },
+    {
+        "country": "United States Minor Outlying Islands",
+        "marketplace": "Nauru",
+        "id": 32
+    },
+    {
+        "country": "Turks and Caicos Islands",
+        "marketplace": "Fiji",
+        "id": 33
+    },
+    {
+        "country": "Virgin Islands, British",
+        "marketplace": "Algeria",
+        "id": 34
+    },
+    {
+        "country": "Cote d'Ivoire",
+        "marketplace": "Niue",
+        "id": 35
+    },
+    {
+        "country": "Namibia",
+        "marketplace": "French Southern Territories",
+        "id": 36
+    },
+    {
+        "country": "Uruguay",
+        "marketplace": "France",
+        "id": 37
+    },
+    {
+        "country": "Netherlands Antilles",
+        "marketplace": "Micronesia",
+        "id": 38
+    },
+    {
+        "country": "Guadeloupe",
+        "marketplace": "Cote d'Ivoire",
+        "id": 39
+    },
+    {
+        "country": "Tanzania",
+        "marketplace": "Tokelau",
+        "id": 40
+    },
+    {
+        "country": "Maldives",
+        "marketplace": "Venezuela",
+        "id": 41
+    },
+    {
+        "country": "Guinea-Bissau",
+        "marketplace": "Mexico",
+        "id": 42
+    },
+    {
+        "country": "Democratic People's Republic of Korea",
+        "marketplace": "Uruguay",
+        "id": 43
+    },
+    {
+        "country": "Israel",
+        "marketplace": "Monaco",
+        "id": 44
+    },
+    {
+        "country": "Djibouti",
+        "marketplace": "British Indian Ocean Territory (Chagos Archipelago)",
+        "id": 45
+    },
+    {
+        "country": "Indonesia",
+        "marketplace": "Slovenia",
+        "id": 46
+    },
+    {
+        "country": "Bosnia and Herzegovina",
+        "marketplace": "Singapore",
+        "id": 47
+    },
+    {
+        "country": "Finland",
+        "marketplace": "Antigua and Barbuda",
+        "id": 48
+    },
+    {
+        "country": "Tunisia",
+        "marketplace": "Micronesia",
+        "id": 49
+    },
+    {
+        "country": "Paraguay",
+        "marketplace": "Italy",
+        "id": 50
+    }
+]

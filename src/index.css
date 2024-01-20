@@ -1,0 +1,128 @@
+* {
+    box-sizing: border-box;
+}
+
+body,
+html {
+    height: 100%;
+}
+
+.wrapper {
+    min-height: 100vh;
+    background-color: #808080;
+    display: flex;
+    flex-direction: column;
+}
+
+.container {
+    flex: 1 1 auto;
+}
+
+.container a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.container button {
+    width: 100%;
+}
+
+.page-item .page-link {
+    background-color: #212529;
+}
+
+.growth__block {
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    cursor: pointer;
+}
+
+.growth__element {
+    right: 0px;
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    top: 4px;
+
+}
+
+.grow-up {
+    background-image: url('../src/assets/grow-up.png');
+    background-size: 100% 100%;
+}
+
+.grow-down {
+    background-image: url('../src/assets/grow-down.png');
+    background-size: 100% 100%;
+}
+
+th {
+    padding-right: 0.5rem;
+}
+
+.container__filter {
+    display: flex;
+    justify-content: space-between;
+}
+
+.container__filter input,
+.container__filter input:focus,
+.container__filter select {
+    background-color: #212529;
+    color: #fff;
+}
+
+.container__filter input::placeholder {
+    color: #c4c1c1;
+}
+
+.container__navBar {
+    display: flex;
+}
+
+.container__navBar a {
+    width: 100%;
+}
+
+.container__navBar a.active button {
+    background-color: #545656;
+    border: 1px solid #545656;
+}
+
+.id {
+    width: 60px;
+}
+
+.creationDate {
+    width: 150px;
+}
+
+footer {
+    margin-top: auto;
+}
+
+footer,
+header {
+    background-color: #212529;
+}
+
+header h1 {
+    color: #fff !important;
+}
+
+footer span {
+    display: block;
+    text-align: center;
+    color: #fff !important;
+}
+
+footer a {
+    margin-left: 10px;
+    width: 30px;
+}
+
+footer a img {
+    width: 100%;
+}
